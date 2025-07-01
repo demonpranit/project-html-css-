@@ -1,0 +1,9 @@
+formula
+Distance of each item
+360deg /quantity
+360/4 =90deg 
+
+rotateY of item at position: (position - 1)*(360deg/quantity)
+
+(1-1)*(360deg / 4) = 0 * 90deg = 0deg
+(2-1)*(360deg/4)= 1*90deg = 90deg
